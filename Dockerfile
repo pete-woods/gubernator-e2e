@@ -1,1 +1,1 @@
-FROM scatch
+FROM scratch
